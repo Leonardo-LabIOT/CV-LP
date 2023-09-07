@@ -166,7 +166,7 @@ export default {
       stacks: this.data.stacks,
       contacts: this.data.contacts,
       cursos: this.data.cursos,
-      stacks_idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 16],
+      stacks_idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
       cursos_idx: [0, 1, 2, 3, 4, 5],
       admin: false,
     }
